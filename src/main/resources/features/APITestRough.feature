@@ -1,7 +1,5 @@
 Feature: Testing out a sample URL
 
-  ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -19,8 +17,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -38,8 +34,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -57,8 +51,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -76,8 +68,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -95,8 +85,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -114,8 +102,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -133,8 +119,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -152,8 +136,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -171,8 +153,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -190,8 +170,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-      ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -209,8 +187,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -228,8 +204,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -247,8 +221,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -266,8 +238,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -285,8 +255,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -304,8 +272,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -323,8 +289,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -342,8 +306,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -361,8 +323,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -380,8 +340,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-      ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -399,8 +357,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -418,8 +374,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -437,8 +391,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -456,8 +408,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -475,8 +425,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -494,8 +442,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -513,8 +459,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -532,8 +476,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -551,8 +493,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -570,8 +510,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-      ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -589,8 +527,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -608,8 +544,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -627,8 +561,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -646,8 +578,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -665,8 +595,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -684,8 +612,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -703,8 +629,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -722,8 +646,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -741,8 +663,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -760,8 +680,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-      ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -779,8 +697,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -798,8 +714,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -817,8 +731,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -836,8 +748,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -855,8 +765,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -874,8 +782,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -893,8 +799,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -912,8 +816,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -931,8 +833,6 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-    ##url being called is GET https://reqres.in/api/users?page=2
-  @Run
   Scenario: Validate the response of a REQRES GET API call
     Given a user makes a "REQRESGETALL" API call with method type "get" and below parameters
     #queryParams
@@ -950,11 +850,7 @@ Feature: Testing out a sample URL
       | support.url     | https://reqres.in/#support-heading                                                                                                                                                                                                                 |
       | support.text    | To keep ReqRes free, contributions towards server costs are appreciated!                                                                                                                                                                           |
 
-
-
-  ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -977,9 +873,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1002,9 +896,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1027,9 +919,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1052,9 +942,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1077,9 +965,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1102,9 +988,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1127,9 +1011,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1152,9 +1034,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1177,9 +1057,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1202,9 +1080,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1227,9 +1103,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1252,9 +1126,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1277,9 +1149,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1302,9 +1172,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1327,9 +1195,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1352,9 +1218,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1377,9 +1241,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1402,9 +1264,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1427,9 +1287,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1452,9 +1310,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1477,9 +1333,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1502,9 +1356,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1527,9 +1379,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1552,9 +1402,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1577,9 +1425,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1602,9 +1448,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1627,9 +1471,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1652,9 +1494,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1677,9 +1517,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1702,9 +1540,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1727,9 +1563,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1752,9 +1586,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1777,9 +1609,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1802,9 +1632,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1827,9 +1655,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1852,9 +1678,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1877,9 +1701,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1902,9 +1724,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1927,9 +1747,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1952,9 +1770,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -1977,9 +1793,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2002,9 +1816,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2027,9 +1839,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2052,9 +1862,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2077,9 +1885,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2102,9 +1908,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2127,9 +1931,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2152,9 +1954,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
@@ -2177,9 +1977,7 @@ Feature: Testing out a sample URL
     Given a user makes a "REQRESDELETE" API call with method type "delete"
     Then Verify Status code 204
 
-    ##url being called is POST https://reqres.in/api/users & PUT https://reqres.in/api/users/2 & GET https://reqres.in/api/users/2
-  @Run
-  Scenario: Validate the response of a REQRES POST API call
+  Scenario: Validate the response of a REQRES POST, PUT and DELETE API call
     Given a user makes a "REQRESPOST" API call with method type "post" and below parameters
     #requestParams
       | name | morpheus |
