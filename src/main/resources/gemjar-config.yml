@@ -1,15 +1,15 @@
-environment: beta
+environment: prod
 project_name: JEWEL
 report_name: Jewel API regression
-enter_point: https://betaapi.gemecosystem.com/gemEcosystemDashboard/v1/enter-point
+enter_point: https://apis.gemecosystem.com/gemEcosystemDashboard/v1/enter-point
 jewel_user: jewel_automation_normal_user
-jewel_bridge_token: 9310b69b-a248-488e-8a93-ccd7dcb37d811719212584811
+jewel_bridge_token: 0f784394-542c-4ad4-b74a-503448e272141712469717255
 glue_code: stepdefinitions
 email_to: raja.arora@geminisolutions.com
 email_report: n
 tags: ' '
-beta:
-base_url: https://betaapi.gemecosystem.com
+prod:
+base_url: https://apis.gemecosystem.com
 REQRESGETALL: https://reqres.in/api/users
 REQRESPOST: https://reqres.in/api/users
 REQRESPUT: https://reqres.in/api/users
